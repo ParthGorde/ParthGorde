@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Gorde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
 
 - 🔭 I’m currently working on **Ratemycollege.com**
 
